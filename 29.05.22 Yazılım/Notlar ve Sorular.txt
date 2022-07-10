@@ -1,0 +1,19 @@
+Anasayfa, Hakkımızda, Makinalar ve iletişim tıklamaları aktif.
+
+A- Anasayfada 
+
+ 	1- Ekranı büyütünce alttaki yazı resme kayıyor bunu nasıl engelleyebiliriz ?
+	2- Ekranı büyütünce navbar sola çok kayıyır bunu nasıl engelleyebiliriz ?
+
+B- Makinalar
+
+	1- Arkada repat olarak yaptığım logonun soluk olmasını istiyorum. Opacity yaptığım zaman diğer resimler kayboluyor opaklaşıyor.
+	2- Resimlerin yanlarına bir div alanı açıp makina adını başlıkla yazıp özelliklerini liste yaparak sıralamak istiyorum ama yapamıyorum. Kaymalar oluyor.
+
+C- İletişim
+
+	1- Gönder butonunu büyütüp düzenleyemedim bir türlü.
+	2- Harita ile konumu göstermek istiyorum bunun url ile google konum bilgisini mi yapıştırmam gerekiyor ?
+
+
+Genel olarak kaymalar mevcut hocam.

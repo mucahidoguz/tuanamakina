@@ -1,0 +1,83 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+header {
+    width: 100%;
+    height: 75px;
+    background-color: rgb(102, 105, 228);
+}
+
+li,
+a {
+    list-style-type: none;
+    text-decoration: none;
+    float: left;
+    margin-right: 20px;
+    margin-top: 15px;
+    font-size: 25px;
+    color: white
+}
+
+ul {
+    margin-left: 350px;
+}
+
+a:hover {
+    background-color: red;
+    color: white;
+    border-radius: 5px;
+}
+
+ul li a {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+img [alt] {
+    opacity: 0, 04;
+    background-color: bisque;
+}
+
+
+p {
+    margin: 40px;
+    font-family: serif;
+    font-size: large;
+}
+
+.navbar .logo {
+    margin-left: 60px;
+}
+
+#makina {
+    display: flex;
+    margin-top: 50px;
+    margin-left: 20px;
+    border: 5px solid;
+    color: blue;
+    width: 400px;
+
+}
+
+body {
+    background-image: url(favicon.ico);
+    background-repeat: space;
+}
+
+/*
+.oto {
+    border: 5px solid;
+    margin-left: 40%;
+    height: 100px;
+    background-color: white;
+    margin-top: 50px;
+
+
+}
+
+li {
+    color: brown;
+}
+*/

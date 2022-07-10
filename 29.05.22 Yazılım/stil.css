@@ -1,0 +1,21 @@
+body {
+ background-image: url("doğa.jpg") ;
+}
+
+li,a{
+    list-style-type: none;
+    text-decoration: none;
+    float: left;
+    margin-right: 20px;
+    margin-top: 15px;
+    font-size: 25px;
+    color: black;
+    }
+    ul{
+    margin-left: 350px;
+    
+    }
+    a:hover{
+        background-color: red ;
+    color:white ;
+    }
